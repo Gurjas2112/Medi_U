@@ -166,7 +166,13 @@ def generate_excel_report(output_path: Path | None = None) -> Path:
     _write_table(patients_ws, patient_export, start_row=1, table_name="PatientsExport")
 
     output.parent.mkdir(parents=True, exist_ok=True)
-    wb.save(output)
+    try:
+        wb.save(output)
+    except PermissionError:
+        fallback = output.with_name(f"{output.stem}_latest{output.suffix}")
+        wb.save(fallback)
+        print(f"Primary workbook is locked; wrote {fallback} instead.")
+        return fallback
     return output
 
 

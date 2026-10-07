@@ -1,0 +1,29 @@
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_01.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_02.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_03.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_04.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_05.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_06.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_07.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_08.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_09.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_10.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_11.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_12.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_13.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_14.png'
+duration 8
+file 'C:/Users/Gurjas Gandhi/OneDrive/Desktop/Medi_U/assets/system_test/slides/slide_14.png'
