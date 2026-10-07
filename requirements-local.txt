@@ -1,0 +1,6 @@
+-r requirements.txt
+matplotlib>=3.8.0
+kagglehub>=0.2.0
+pyodbc>=4.0.39
+langchain-ollama>=0.1.0
+Faker>=22.0.0
